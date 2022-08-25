@@ -1,7 +1,9 @@
+[Banner](https://github.com/C0NN3CT10N-L0ST/C0NN3CT10N-L0ST)
+
 ### Hi there 👋
 
-<!--
-**C0NN3CT10N-L0ST/C0NN3CT10N-L0ST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
