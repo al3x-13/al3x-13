@@ -3,7 +3,7 @@
 ---
 ## About 👋
 - 🎓 Computer engineering student
-- 💻 More often breaking stuff than working programs (LULz 😄)
+- 💻 More often breaking stuff than not (LULz 😄)
 - 🔒 Special interested in cybersecurity and privacy
 - 📚 Active learner
 
