@@ -3,7 +3,7 @@
 ---
 ## About 👋
 - 🎓 Computer engineering student
-- 💻 More often breaking stuff than writing useful programs (LULz 😄)
+- 💻 More often breaking stuff than working programs (LULz 😄)
 - 🔒 Special interested in cybersecurity and privacy
 - 📚 Active learner
 
@@ -23,7 +23,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 height=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width=40 height=40 />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 />
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0NN3CT10N-L0ST&layout=compact&theme=github_dark&hide_border=true)
