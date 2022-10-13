@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/C0NN3CT10N-L0ST/C0NN3CT10N-L0ST/main/assets/banner.png)
 
 ---
-## About 👋
+## About
 - 🎓 Computer engineering student
 - 💻 More often breaking stuff than not (LULz)
 - 🔒 Special interested in cybersecurity and privacy
